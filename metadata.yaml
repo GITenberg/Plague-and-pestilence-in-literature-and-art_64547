@@ -1,0 +1,28 @@
+_repo: Plague-and-pestilence-in-literature-and-art_64547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crawfurd, Raymond Henry Payne, Sir
+    birthdate: 1865
+    deathdate: 1938
+    gutenberg_agent_id: '52950'
+    url: http://www.gutenberg.org/2009/agents/52950
+    wikipedia: https://en.wikipedia.org/wiki/Raymond_Crawfurd
+description: ''
+gutenberg_issued: '2021-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine in art'
+- !lcsh 'Plague'
+- !lcsh 'Medicine in literature'
+- !lcsh 'Plague -- History'
+- !lcc 'RC'
+- GITenberg
+title: Plague and pestilence in literature and art
+url: http://www.gutenberg.org/ebooks/64547
