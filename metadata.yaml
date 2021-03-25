@@ -1,5 +1,8 @@
 _repo: Plague-and-pestilence-in-literature-and-art_64547
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64547-h/images/cover.jpg
 creator:
   author:
     agent_name: Crawfurd, Raymond Henry Payne, Sir
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52950
     wikipedia: https://en.wikipedia.org/wiki/Raymond_Crawfurd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64547#Plague-and-pestilence-in-literature-and-art
 gutenberg_issued: '2021-02-13'
 gutenberg_type: Text
 identifiers:
